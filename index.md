@@ -5,10 +5,10 @@ Copilot agent development for higher-education course and assessment design.
 
 ## Content Areas
 
-- [Indexes](indexes/)
-- [Cases](cases/)
-- [Notes](notes/)
-- [Source Documents](files/)
+- [Indexes](./indexes/)
+- [Cases](./cases/)
+- [Notes](./notes/)
+- [Source Documents](./files/)
 
 ## Status
 
