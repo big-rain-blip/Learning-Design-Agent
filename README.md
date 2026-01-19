@@ -8,7 +8,7 @@ It functions as a **read-only content source** for structured documents, cases, 
 
 ## Status
 
-🚧 **Work in Progress**
+**Work in Progress**
 
 - Content structure is evolving
 - Documents may be incomplete, provisional, or superseded
